@@ -1,5 +1,5 @@
 # POWER_BI
-![Dashboard Preview](dashboard_preview.png.)
+![Dashboard Preview](dashboard_preview.png)
 
 
 📊 Madhav Sales Data Dashboard – Power BI Project
