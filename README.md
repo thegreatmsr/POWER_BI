@@ -35,7 +35,7 @@ Interactive dashboard creation
 Business insights generation
 
 #Project 2
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboardPizzaSales.png
 
 # 🍕 Pizza Hut Sales Dashboard - Power BI
 
